@@ -154,7 +154,12 @@
    box-shadow: 0 .15rem 1rem rgba(24,186,96,.85)!important;
 }
 .horizontal-line{
-    color: #18ba60 !important;
+    /* color: #18ba60 !important; */
+    color: #FFD700 !important;
     font-size: 2px;
     opacity: 1;
+}
+.contact-section{
+    border: 1px solid #18ba60;
+    border-radius: 10px;
 }
