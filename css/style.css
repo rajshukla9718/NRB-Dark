@@ -163,3 +163,18 @@
     border: 1px solid #18ba60;
     border-radius: 10px;
 }
+.last{
+    list-style-type: none;
+    margin: 1rem;
+}
+.brochure{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1rem;
+    border: 1px solid white;
+    font-weight: 600;
+}
+.brochure:hover{
+    background-color: #18ba60;
+    color: #fff !important;
+}
